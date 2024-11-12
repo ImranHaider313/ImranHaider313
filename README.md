@@ -3,7 +3,7 @@ I'm a software developer with 8 years of experience but still learning 😃. I s
 - 🌱  I’m looking to collaborate on *NodeJs* and *ReactJs* 
 - 🎓  Getting ready for my Hand dirty with Rust and Blockchain certification 
 
-### Connect with me
+## Connect with me
 
 <p>You can reach me through:</p>
 
@@ -28,13 +28,9 @@ I'm a software developer with 8 years of experience but still learning 😃. I s
     <img alt="HackerRank" src="https://img.shields.io/badge/HackerRank-%232C3454.svg?style=for-the-badge&logo=HackerRank&logoColor=green" height="30" width="140" />
   </a>
 
-  <a href="[https://www.hackerrank.com/profile/imranhp313](https://coursera.org/share/46b596713a0120d521726b9f866f4aa1)" title="Javascript security specialization">
-    <img alt="Coursera" src="https://img.shields.io/badge/Coursera-%230056D2.svg?style=for-the-badge&logo=Coursera&logoColor=white" height="30" width="140" />
-  </a>
-
 </div>
 
-### Languages and Frameworks
+## Languages and Frameworks
 
 <div>
 <img alt="Typescript" height="50" width="50" style="margin-left: 20px;" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" /> 
@@ -51,4 +47,10 @@ I'm a software developer with 8 years of experience but still learning 😃. I s
 <img alt="MySql" height="50" width="50" style="margin-left: 20px;" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
 </div>
 
+## Certifications
+<div style="display: flex; gap: 8px; align-items: center;">
+  <a href="[https://www.hackerrank.com/profile/imranhp313](https://coursera.org/share/46b596713a0120d521726b9f866f4aa1)" title="Javascript security specialization">
+    <img alt="Coursera" src="https://img.shields.io/badge/Coursera-%230056D2.svg?style=for-the-badge&logo=Coursera&logoColor=white" height="30" width="140" />
+  </a>
+</div>
 
