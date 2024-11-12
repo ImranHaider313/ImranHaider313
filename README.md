@@ -7,16 +7,19 @@ I'm a software developer with 8 years of experience but still learning 😃. I s
 
 - You can reach me through: 
 
-<a href="mailto:imranhp313@gmail.com" title="Email"><img alt="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="30" align="center"/></a> 
+<a href="mailto:imranhp313@gmail.com" title="Email"><img alt="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="30" align="center"/> </a>
 
-<a href="https://wa.me/923098500753" title="Whatsapp"><img alt="whatsapp"  src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" height="30" align="center"/></a> 
+<a href="https://wa.me/923098500753" title="Whatsapp"><img alt="whatsapp"  src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" height="30" align="center"/> </a>
 
-<a href="https://www.linkedin.com/in/muhammad-imran-haider-9277a375/"><img  alt="LinkedIn" title="LinkedIn" src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" align="center" /></a> 
+<a href="https://www.linkedin.com/in/muhammad-imran-haider-9277a375/"><img  alt="LinkedIn" title="LinkedIn" src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" align="center" /> </a>
 
-<a href="https://www.codewars.com/users/imran-haider313" title="Codewars"><img alt="Email"  src="![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=white)" height="30" align="center"/></a> 
+<a href="https://www.codewars.com/users/imran-haider313" title="Codewars"><img alt="Codewars"  src="![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=white)" height="30" align="center"/> </a>
 
-<a href="https://www.hackerrank.com/profile/imranhp313" title="Hacker Rank"><img alt="Email"  src="![HackerEarth](https://img.shields.io/badge/HackerEarth-%232C3454.svg?style=for-the-badge&logo=HackerEarth&logoColor=Blue)
- height="30" align="center"/></a> 
+<a href="https://www.hackerrank.com/profile/imranhp313" title="HackerRank"><img alt="HackerEarth"  src="![HackerEarth](https://img.shields.io/badge/HackerEarth-%232C3454.svg?style=for-the-badge&logo=HackerEarth&logoColor=Blue)
+ height="30" align="center"/> </a>
+
+
+
 
 
 ### Languages and Frameworks
