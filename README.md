@@ -1,7 +1,7 @@
-I'm a software developer with 8 years of experience but still learning 😃. I started my career with Vanilla Javascript, Python and Ruby on Rails. I self-taught myself NodeJs and ReactJs and for the last 6 years have been working on MERN / PERN stack applications. I've had the satisfaction of working for both large companies and startups. Now I focus on Typescript (JavaScript), NodeJs, React (NextJs) and Rust, sharing my enthusiasm with others, mentoring, and solving business problems.
+I'm a software developer with 8 years of experience but still learning 😃. For the last 6 years I have been working on MERN / PERN stack (Fintech & Healthcare) applications. I've had the satisfaction of working for both large companies and startups. Now I focus on Typescript (JavaScript), NodeJs, React (NextJs) and Rust, sharing my enthusiasm with others, mentoring, and solving business problems.
 
 - 🌱  I’m looking to collaborate on *NodeJs* and *ReactJs* 
-- 🎓  Getting ready for my Hand dirty with Rust and Blockchain certification 
+- 🎓  Getting ready for my Hands dirty with Rust and Blockchain certification 
 
 ## Connect with me
 
