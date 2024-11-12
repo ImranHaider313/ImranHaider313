@@ -34,7 +34,7 @@ I'm a software developer with 8 years of experience but still learning 😃. I s
 
 <div>
 <img alt="Typescript" height="50" width="50" style="margin-left: 20px;" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" /> 
-<img alt="Node" height="50" width="50" style="margin-left: 20px;" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/node/node.png" /> 
+<img alt="Node" height="50" width="50" style="margin-left: 20px;" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" /> 
 <img alt="JavaScript" height="50" width="50" style="margin-left: 20px;" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"/>
 <img alt="ES6" height="50" width="50" style="margin-left: 20px;" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/es6/es6.png"/>
 <img alt="Mongoose" height="50" width="50" style="margin-left: 20px;" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongoose/mongoose.png"/>
