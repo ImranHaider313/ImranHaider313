@@ -5,38 +5,18 @@ I'm a software developer with 8 years of experience but still learning 😃. I s
 
 ### Connect with me
 
-<p>You can reach me through:</p>
+- You can reach me through: 
 
-<a href="https://your-website.com" style="text-decoration: none;">
-  <button style="background-color: #F57C00; color: white; border: none; padding: 8px 16px; font-size: 14px; border-radius: 5px; margin-right: 5px; display: inline-flex; align-items: center;">
-    <img alt="Website" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/internetarchive.svg" width="16" height="16" style="filter: invert(100%); margin-right: 8px;">
-    Website
-  </button>
-</a>
+<a href="mailto:imranhp313@gmail.com" title="Email"><img alt="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="30" align="center"/></a> 
 
-<a href="mailto:imranhp313@gmail.com" style="text-decoration: none;">
-  <button style="background-color: #D14836; color: white; border: none; padding: 8px 16px; font-size: 14px; border-radius: 5px; margin-right: 5px; display: inline-flex; align-items: center;">
-    <img alt="Gmail" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" width="16" height="16" style="filter: invert(100%); margin-right: 8px;">
-    Gmail
-  </button>
-</a>
+<a href="https://wa.me/923098500753" title="Whatsapp"><img alt="whatsapp"  src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" height="30" align="center"/></a> 
 
-<a href="https://wa.me/923098500753" style="text-decoration: none;">
-  <button style="background-color: #25D366; color: white; border: none; padding: 8px 16px; font-size: 14px; border-radius: 5px; margin-right: 5px; display: inline-flex; align-items: center;">
-    <img alt="WhatsApp" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" width="16" height="16" style="filter: invert(100%); margin-right: 8px;">
-    WhatsApp
-  </button>
-</a>
+<a href="https://www.linkedin.com/in/muhammad-imran-haider-9277a375/"><img  alt="LinkedIn" title="LinkedIn" src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" align="center" /></a> 
 
-<a href="https://www.linkedin.com/in/muhammad-imran-haider-9277a375/" style="text-decoration: none;">
-  <button style="background-color: #0A66C2; color: white; border: none; padding: 8px 16px; font-size: 14px; border-radius: 5px; display: inline-flex; align-items: center;">
-    <img alt="LinkedIn" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" width="16" height="16" style="filter: invert(100%); margin-right: 8px;">
-    LinkedIn
-  </button>
-</a>
+<a href="https://www.codewars.com/users/imran-haider313" title="Codewars"><img alt="Email"  src="![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=white)" height="30" align="center"/></a> 
 
-
-
+<a href="https://www.hackerrank.com/profile/imranhp313" title="Hacker Rank"><img alt="Email"  src="![HackerEarth](https://img.shields.io/badge/HackerEarth-%232C3454.svg?style=for-the-badge&logo=HackerEarth&logoColor=Blue)
+ height="30" align="center"/></a> 
 
 
 ### Languages and Frameworks
