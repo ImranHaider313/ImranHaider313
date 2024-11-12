@@ -5,38 +5,36 @@ I'm a software developer with 8 years of experience but still learning 😃. I s
 
 ### Connect with me
 
-<!-- From: https://github.com/simple-icons/simple-icons -->
-<!-- LinkedIn Button -->
-<a href="https://www.linkedin.com/in/muhammad-imran-haider-9277a375/" style="text-decoration: none;">
-  <button style="background-color: #0A66C2; color: white; border: none; padding: 10px 20px; font-size: 16px; border-radius: 5px; cursor: pointer; display: inline-flex; align-items: center;">
-    <img alt="LinkedIn" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" width="20" height="20" style="filter: invert(100%); margin-right: 8px;">
-    LinkedIn
+<p>You can reach me through:</p>
+
+<a href="https://your-website.com" style="text-decoration: none;">
+  <button style="background-color: #F57C00; color: white; border: none; padding: 8px 16px; font-size: 14px; border-radius: 5px; margin-right: 5px; display: inline-flex; align-items: center;">
+    <img alt="Website" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/internetarchive.svg" width="16" height="16" style="filter: invert(100%); margin-right: 8px;">
+    Website
   </button>
 </a>
 
-<!-- Gmail Button -->
 <a href="mailto:imranhp313@gmail.com" style="text-decoration: none;">
-  <button style="background-color: #D14836; color: white; border: none; padding: 10px 20px; font-size: 16px; border-radius: 5px; cursor: pointer; display: inline-flex; align-items: center;">
-    <img alt="Gmail" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" width="20" height="20" style="filter: invert(100%); margin-right: 8px;">
+  <button style="background-color: #D14836; color: white; border: none; padding: 8px 16px; font-size: 14px; border-radius: 5px; margin-right: 5px; display: inline-flex; align-items: center;">
+    <img alt="Gmail" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" width="16" height="16" style="filter: invert(100%); margin-right: 8px;">
     Gmail
   </button>
 </a>
 
-<!-- Codewars Button -->
-<a href="https://www.codewars.com/users/imran-haider313" style="text-decoration: none;">
-  <button style="background-color: #B1361E; color: white; border: none; padding: 10px 20px; font-size: 16px; border-radius: 5px; cursor: pointer; display: inline-flex; align-items: center;">
-    <img alt="Codewars" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codewars.svg" width="20" height="20" style="filter: invert(100%); margin-right: 8px;">
-    Codewars
-  </button>
-</a>
-
-<!-- WhatsApp Button -->
 <a href="https://wa.me/923098500753" style="text-decoration: none;">
-  <button style="background-color: #25D366; color: white; border: none; padding: 10px 20px; font-size: 16px; border-radius: 5px; cursor: pointer; display: inline-flex; align-items: center;">
-    <img alt="WhatsApp" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" width="20" height="20" style="filter: invert(100%); margin-right: 8px;">
+  <button style="background-color: #25D366; color: white; border: none; padding: 8px 16px; font-size: 14px; border-radius: 5px; margin-right: 5px; display: inline-flex; align-items: center;">
+    <img alt="WhatsApp" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" width="16" height="16" style="filter: invert(100%); margin-right: 8px;">
     WhatsApp
   </button>
 </a>
+
+<a href="https://www.linkedin.com/in/muhammad-imran-haider-9277a375/" style="text-decoration: none;">
+  <button style="background-color: #0A66C2; color: white; border: none; padding: 8px 16px; font-size: 14px; border-radius: 5px; display: inline-flex; align-items: center;">
+    <img alt="LinkedIn" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" width="16" height="16" style="filter: invert(100%); margin-right: 8px;">
+    LinkedIn
+  </button>
+</a>
+
 
 
 
