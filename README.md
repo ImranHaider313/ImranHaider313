@@ -7,13 +7,37 @@ I'm a software developer with 8 years of experience but still learning 😃. I s
 
 <!-- From: https://github.com/simple-icons/simple-icons -->
 <!-- LinkedIn Button -->
-[<img alt="LinkedIn" height="20" width="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" style="vertical-align: middle; filter: invert(12%) sepia(6%) saturate(2942%) hue-rotate(179deg) brightness(94%) contrast(89%);" /> LinkedIn](https://www.linkedin.com/in/muhammad-imran-haider-9277a375/)
+<a href="https://www.linkedin.com/in/muhammad-imran-haider-9277a375/" style="text-decoration: none;">
+  <button style="background-color: #0A66C2; color: white; border: none; padding: 10px 20px; font-size: 16px; border-radius: 5px; cursor: pointer; display: inline-flex; align-items: center;">
+    <img alt="LinkedIn" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" width="20" height="20" style="filter: invert(100%); margin-right: 8px;">
+    LinkedIn
+  </button>
+</a>
 
 <!-- Gmail Button -->
-[<img alt="Gmail" height="20" width="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" style="vertical-align: middle; filter: invert(12%) sepia(6%) saturate(2942%) hue-rotate(179deg) brightness(94%) contrast(89%);" /> Gmail](mailto:imranhp313@gmail.com)
+<a href="mailto:imranhp313@gmail.com" style="text-decoration: none;">
+  <button style="background-color: #D14836; color: white; border: none; padding: 10px 20px; font-size: 16px; border-radius: 5px; cursor: pointer; display: inline-flex; align-items: center;">
+    <img alt="Gmail" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" width="20" height="20" style="filter: invert(100%); margin-right: 8px;">
+    Gmail
+  </button>
+</a>
 
 <!-- Codewars Button -->
-[<img alt="Codewars" height="20" width="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codewars.svg" style="vertical-align: middle; filter: invert(12%) sepia(6%) saturate(2942%) hue-rotate(179deg) brightness(94%) contrast(89%);" /> Codewars](https://www.codewars.com/users/imran-haider313)
+<a href="https://www.codewars.com/users/imran-haider313" style="text-decoration: none;">
+  <button style="background-color: #B1361E; color: white; border: none; padding: 10px 20px; font-size: 16px; border-radius: 5px; cursor: pointer; display: inline-flex; align-items: center;">
+    <img alt="Codewars" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codewars.svg" width="20" height="20" style="filter: invert(100%); margin-right: 8px;">
+    Codewars
+  </button>
+</a>
+
+<!-- WhatsApp Button -->
+<a href="https://wa.me/923098500753" style="text-decoration: none;">
+  <button style="background-color: #25D366; color: white; border: none; padding: 10px 20px; font-size: 16px; border-radius: 5px; cursor: pointer; display: inline-flex; align-items: center;">
+    <img alt="WhatsApp" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" width="20" height="20" style="filter: invert(100%); margin-right: 8px;">
+    WhatsApp
+  </button>
+</a>
+
 
 
 
